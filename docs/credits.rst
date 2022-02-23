@@ -127,7 +127,7 @@ Core Package Contributors
 * Elijah Bernstein-Cooper
 * Eloy Salinas
 * Emily Deibert
-* Emir
+* Emir Karamehmetoglu
 * Emma Hogan
 * Eric Depagne
 * Eric Jeschke
